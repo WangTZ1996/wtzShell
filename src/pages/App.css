@@ -1,5 +1,19 @@
 .App {
-  text-align: center;
+  height: 100%;
+  padding: 10px 0;
+}
+
+.commandInput {
+  margin-top: auto;
+}
+
+.commandInput input {
+  outline: none;
+  width: 100%;
+}
+
+.commandInput input:focus {
+  outline: none;
 }
 
 .App-logo {
